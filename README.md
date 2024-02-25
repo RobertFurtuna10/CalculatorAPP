@@ -1,28 +1,28 @@
 ## CalculatorAPP
 
--Această aplicație Python implementează un mini-calculator în mod text. Utilizatorul poate efectua operații matematice de adunare, scădere, înmulțire și împărțire, interacționând cu calculatorul.
+-This Python application implements a text-mode mini-calculator. The user can perform mathematical operations of addition, subtraction, multiplication and division by interacting with the calculator.
 
-## Cum să folosești
+## How to use
 
-1. La pornirea aplicației, se afișează valoarea inițială a calculatorului (implicit 0). Utilizatorul poate seta valoarea inițială folosind un parametru din linia de comandă.
-2. Aplicația așteaptă o operație de la utilizator și afișează rezultatul acesteia.
-3. Operațiile posibile sunt:
-   - +număr: adună la valoarea curentă numărul respectiv
-   - -număr: scade din valoarea curentă numărul respectiv
-   - *număr: înmulțește valoarea curentă cu numărul respectiv
-   - /număr: împarte valoarea curentă la numărul respectiv
-   - =număr: setează valoarea curentă cu numărul respectiv
-   - x: ieșire din program
-4. După fiecare operație, se afișează valoarea curentă și se așteaptă din nou un input de la utilizator.
+1. When starting the application, the initial value of the calculator is displayed (default 0). The user can set the initial value using a command line parameter.
+2. The application waits for an operation from the user and displays its result.
+3. The possible operations are:
+   - +number: adds that number to the current value
+   - -number: subtracts the respective number from the current value
+   - *number: Multiplies the current value by that number
+   - /number: divides the current value by that number
+   - =number: sets the current value with that number
+   - x: exit the program
+4. After each operation, the current value is displayed and user input is again expected.
 
-## Cum să rulezi
+## How to run
 
-1. Asigură-te că ai Python instalat pe sistemul tău.
-2. Descarcă sau clonează acest proiect pe computerul tău.
-3. Deschide terminalul și navighează către directorul proiectului.
-4. Rulează fişierul.
+1. Make sure you have Python installed on your system.
+2. Download or clone this project to your computer.
+3. Open the terminal and navigate to the project directory.
+4. Run the file.
 
-## Exemplu
+## Example
 
 0
 > +5
